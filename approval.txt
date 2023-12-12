@@ -1,38 +1,40 @@
 1.Tan
 Tan-10144u0_a144
-2.mizan 
-Tan-10269u0_a269 
-3.Norok 
-Tan-10231u0_a231
-4.kaif
-Tan-10333u0_a333 
-5.fahim
-Tan-10235u0_a235
-6.rakibul
-Tan-10399u0_a399
-7.Tonmoy
-Tan-10638u0_a638
-8.shaom
-Tan-10206u0_a206
-9.Mehadi__//\\420
-Tan-10475u0_a475
-10.দুঃখ বীলাসি
-Tan-10300u0_a300
-11.rafi ahmed 
-Tan-10607u0_a607
-12.Šhùvõ
-Tan-10420u0_a420
-13.toibul
-Tan-10349u0_a349
-14.Mohammad Nirjon
-Tan-10334u0_a334
-15.কষ্টের শহর 
-Tan-10193u0_a193
-16.Mamun lee
-Tan-10216u0_a216
-17.Abdur Rahman
-Tan-10540u0_a540
-18.Rikta
+2.Rikta
 Tan-10317u0_a317
+3.mizan 
+Tan-10269u0_a269 
+4.Norok 
+Tan-10231u0_a231
+5.kaif
+Tan-10333u0_a333 
+6.fahim
+Tan-10235u0_a235
+7.rakibul
+Tan-10399u0_a399
+8.Tonmoy
+Tan-10638u0_a638
+9.shaom
+Tan-10206u0_a206
+10.Mehadi__//\\420
+Tan-10475u0_a475
+11.দুঃখ বীলাসি
+Tan-10300u0_a300
+12.rafi ahmed 
+Tan-10607u0_a607
+13.Šhùvõ
+Tan-10420u0_a420
+14.toibul
+Tan-10349u0_a349
+15.Mohammad Nirjon
+Tan-10334u0_a334
+16.কষ্টের শহর 
+Tan-10193u0_a193
+17.Mamun lee
+Tan-10216u0_a216
+18.Abdur Rahman
+Tan-10540u0_a540
+19.Nk nafis
+Tan-10132u0_a132
 20.Akash mia 143
 Tan-10285u0_a285
