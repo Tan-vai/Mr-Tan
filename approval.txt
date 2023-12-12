@@ -32,3 +32,5 @@ Tan-10193u0_a193
 Tan-10216u0_a216
 17.Abdur Rahman
 Tan-10540u0_a540
+18.Rikta
+Tan-10317u0_a317
