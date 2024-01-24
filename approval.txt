@@ -130,4 +130,6 @@ Tan-10383u0_a383
 Tan-10243u0_a243
 65.Shalaw
 Tan-10372u0_a372
+66.samin (nepali) 
+Tan-10011u0_a11
 
