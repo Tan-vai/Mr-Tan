@@ -132,4 +132,6 @@ Tan-10243u0_a243
 Tan-10372u0_a372
 66.samin (nepali) 
 Tan-10011u0_a11
+67.Ardiyan adi
+Tan-10379u0_a379
 
