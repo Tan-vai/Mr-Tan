@@ -259,4 +259,6 @@ Tan-10151u0_a151
 Tan-10313u0_a313
 125.Hamja
 Tan-10314u0_a314
+126.Duwa khan
+Tan-10295u0_a295
 
