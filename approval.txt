@@ -293,3 +293,5 @@ Tan-10261u0_a261
 Tan-10122u0_a1
 142.Mamun
 Tan-10722u0_a722
+143.alif emoji
+Tan-10748u0_a748
