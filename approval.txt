@@ -295,3 +295,5 @@ Tan-10122u0_a1
 Tan-10722u0_a722
 143.alif emoji
 Tan-10748u0_a748
+144.dx eku
+Tan-10284u0_a284
